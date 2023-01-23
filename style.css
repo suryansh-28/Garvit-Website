@@ -7,6 +7,9 @@
     --text-black-900:#302e4d;
     --text-black-700:#504e70;
 }
+:root{
+    --skin-color: #2a84a8; 
+}
 
 body{
    
