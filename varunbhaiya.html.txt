@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="wrapper">
+        <header>
+            <img src="imgs/Mountain.png" class="w1">
+            <img src="imgs/Trees.png" class="w2">
+            <h1 class="title">Team GarVIT</h1>
+        </header>
+        <section>Lorem, ipsum dolor sit amet consectetur adipisicing elit. 
+            Recusandae sunt voluptates corporis optio molestiae fugit vero accusamus 
+            reiciendis asperiores nostrum. Voluptatibus nisi cum libero, ad, 
+            voluptatum saepe voluptatem, aliquid facere facilis error dolorem eaque? 
+            Rerum porro commodi exercitationem nulla at. Aspernatur quis nisi quibusdam 
+            nihil deserunt officia non itaque, perferendis quos vel totam ex rem dolorem eius 
+            assumenda! Quod pariatur aliquid fuga rerum nobis vero, adipisci repudiandae iste 
+            nam blanditiis neque. Neque quod quia fugiat consequuntur enim delectus unde 
+            accusamus voluptatum voluptas consectetur tempore vitae quam ea, quidem maiores. 
+            Corrupti cum cupiditate culpa natus, maiores rerum, enim odit, aut quam incidunt 
+            ullam? Perferendis, magnam. At maiores eum doloribus adipisci incidunt quam 
+            voluptatibus impedit, neque sapiente. Enim omnis libero quo qui velit sapiente 
+            aliquam quidem maxime eum, quod consequuntur iste reiciendis aut at assumenda! 
+            Adipisci numquam officiis quasi soluta tenetur, nemo obcaecati autem modi dolorem 
+            rem asperiores similique perspiciatis voluptatem commodi at, voluptas culpa! Laboriosam 
+            illum explicabo ex quia, sed assumenda quisquam similique voluptas neque soluta 
+            consequatur deserunt perferendis voluptate, molestias optio unde, minus consequuntur. 
+            Provident aliquam sunt, fugiat est voluptates delectus architecto consequatur nemo, 
+            deleniti eius totam labore suscipit. Deleniti libero quisquam architecto rerum eos 
+            aperiam incidunt itaque tenetur enim magni quasi ipsum atque eligendi at doloribus ab 
+            tempora quis adipisci, assumenda repudiandae nam ea facere! Expedita optio explicabo 
+            nobis, molestiae suscipit laudantium neque, reprehenderit porro necessitatibus, ad 
+            distinctio. Obcaecati porro nostrum ipsam fugit distinctio sapiente perferendis. 
+            Provident consequatur dolorum fugiat adipisci dolorem dolor aliquam cumque ut, 
+            eligendi culpa porro laboriosam amet placeat quod autem, deserunt corporis iusto 
+            dolore voluptates quis corrupti modi. Illo sequi minus impedit, pariatur quia at non 
+            dolore officia ipsa optio cupiditate! Pariatur, perferendis dolore rerum magnam 
+            perspiciatis, fuga nihil veniam facere consequuntur ipsam officiis incidunt numquam 
+            voluptatum, vitae obcaecati ea assumenda eaque molestiae libero doloribus?</section>
+    </div>
+</body>
+</html>
